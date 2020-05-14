@@ -12,3 +12,7 @@ github_username:  yuan2016s # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
+title: "Welcome to my blog"
+date: 2020-05-14
+---
